@@ -4,13 +4,15 @@ I'm currently a 2nd Year studying Computer Science at Georgia Tech.
 
 
 Here are some of my personal projects I've worked on:
+* [Full-Stack Banking Management System](https://github.com/jdmclatcher/bank-management-portal)
+
 * [File Explorer Helper for Windows](https://github.com/jdmclatcher/file-explorer-helper)
 
 * [Laser Drop (Android Game on Play Store)](https://play.google.com/store/apps/details?id=com.EmpoweredPixel.LaserDrop)
 
 I've got 2 summers of work experience at Axis Group writing code in React (2018 & 2019).
 
-I was also contracted by UKG to write Python [code](https://github.com/jdmclatcher/excel-data-transforms) to automate data transformations and provide insights for sales data (2021).
+I was also contracted by UKG to write Python [code](https://github.com/jdmclatcher/excel-data-transforms) to automate data transformations and provide insights for sales & subscription data (2021).
 
 Check out my [website](https://jdmclatcher.com) for more information about me!
 
